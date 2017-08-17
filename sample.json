@@ -1,0 +1,93 @@
+[{
+    "_class": "course", 
+    "id": 860148, 
+    "title": "R Programming: Advanced Analytics In R For Data Science", 
+    "url": "/r-analytics/", 
+    "is_paid": true, 
+    "price": "₩220,000", 
+    "visible_instructors": [
+        {"_class": "user", 
+        "id": 2364054, 
+        "title": "Kirill Eremenko", 
+        "name":"Kirill", 
+        "display_name": "Kirill Eremenko", 
+        "job_title": "Data Scientist &amp; Forex Systems Expert", 
+        "image_50x50": "https://udemy-images.udemy.com/user/50x50/2364054_83cd_5.jpg", 
+        "image_100x100": "https://udemy-images.udemy.com/user/100x100/2364054_83cd_5.jpg", 
+        "url": "/user/kirilleremenko/"
+        }, 
+        {
+            "_class": "user", 
+            "id": 27129696, 
+            "title": "SuperDataScience Team", 
+            "name": "SuperDataScience", 
+            "display_name": "SuperDataScience Team", 
+            "job_title": "Helping Data Scientists Succeed", 
+            "image_50x50": "https://udemy-images.udemy.com/user/50x50/27129696_acc1.jpg", 
+            "image_100x100": "https://udemy-images.udemy.com/user/100x100/27129696_acc1.jpg", 
+            "url":"/user/superdatascience-team/"}
+    ], 
+    "image_125_H": "https://udemy-images.udemy.com/course/125_H/860148_4f31.jpg", 
+    "image_240x135":"https://udemy-images.udemy.com/course/240x135/860148_4f31.jpg", 
+    "is_practice_test_course": false, 
+    "image_480x270": "https://udemy-images.udemy.com/course/480x270/860148_4f31.jpg", 
+    "published_title": "r-analytics", 
+    "headline": "Take Your R &amp; R Studio Skills To The Next Level. Data Analytics, Data Science, Statistical Analysis in Business, GGPlot2", 
+    "num_subscribers": 9684, 
+    "discount": {
+        "price": {
+            "amount": 11000.0, 
+            "currency": "KRW", 
+            "price_string": "₩11,000", 
+            "currency_symbol": "₩"
+        }, 
+        "list_price": {
+            "amount": 220000.0, 
+            "currency": "KRW", 
+            "price_string": "₩220,000", 
+            "currency_symbol": "₩"}, 
+            "saving_price": {
+                "amount": 209000.0, 
+                "currency": "KRW", 
+                "price_string": "₩209,000", 
+                "currency_symbol": "₩"
+            }, 
+            "discount_percent_for_display": 95, 
+            "buyable": {"id": 860148, "type": "course"}, 
+            "campaign": {
+                "code": "F6O7SG717DEAL10", 
+                "end_time": "2017-08-07T05:51:33-07:00", 
+                "is_instructor_created": false, 
+                "is_public": true, 
+                "start_time": "2017-07-20T07:00:00Z", 
+                "campaign_type": "deal", 
+                "uses_remaining": -1, 
+                "maximum_uses": -1
+                }, 
+            "rate": {
+                "type": "fixed", 
+                "value": 10
+                }
+            }, 
+            "avg_rating_recent": 4.637195121951219, 
+            "num_reviews": 977, 
+            "is_wishlisted": false, 
+            "num_published_lectures": 47, 
+            "image_304x171": "https://udemy-images.udemy.com/course/304x171/860148_4f31.jpg", 
+            "locale": {
+                "_class": "locale", 
+                "locale": "en_US", 
+                "title": "English (US)", 
+                "english_title": "English (US)"
+                }, 
+            "caption_languages": ["English"], 
+            "instructional_level": "Intermediate Level", 
+            "content_info": "6 hours", 
+            "published_time": "2016-05-26T16:44:35Z", 
+            "bestseller_badge_content": "None", 
+            "predictive_score": "None", 
+            "relevancy_score": 1.0692251, 
+            "lecture_search_result": "None", 
+            "input_features": "None"
+        }
+]
